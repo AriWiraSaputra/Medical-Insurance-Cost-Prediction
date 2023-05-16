@@ -1,5 +1,9 @@
 # Medical Insurance Cost Prediction
 
+![Image Medical](https://github.com/AriWiraSaputra/Medical-Insurance-Cost-Prediction/blob/main/Insurance%20Cost%20Prediction%20-%20Personal%20-%20Microsoft_%20Edge%202023-05-16%2023-02-45.gif)
+
+
+
 Medical Insurance Cost Prediction is a project that utilizes machine learning to predict the cost of medical insurance based on several factors such as age, gender, body mass index (BMI), number of children, smoking habit, and region of residence. This project aims to assist individuals or insurance companies in estimating health insurance costs based on specific characteristics.
 
 ## Features
@@ -42,6 +46,13 @@ Medical Insurance Cost Prediction is a project that utilizes machine learning to
 3. Explore the insurance dataset and visualizations.
 4. Input the required data for medical insurance cost prediction in the sidebar.
 5. View the predicted insurance cost.
+
+#Documentasi 
+![Image Medical Cost](https://github.com/AriWiraSaputra/Medical-Insurance-Cost-Prediction/blob/main/Insecure%20cost%20prediction.png)
+![Image Age](https://github.com/AriWiraSaputra/Medical-Insurance-Cost-Prediction/blob/main/age%20distsributon.png)
+![Image Sex](https://github.com/AriWiraSaputra/Medical-Insurance-Cost-Prediction/blob/main/sex%20distrubtion.png)
+![Image BMI](https://github.com/AriWiraSaputra/Medical-Insurance-Cost-Prediction/blob/main/BMI%20distrubtion.png)
+
 
 # Contributing
 Contributions are welcome! If you have any ideas or improvements, please follow these steps:
